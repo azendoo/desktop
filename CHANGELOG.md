@@ -1,3 +1,6 @@
+## 2.0.1
+* Fix open download url in main window to prompt dialog
+
 ## 2.0.0
 * Update Electron to 4.0.4
 * osslsigncode instead signcode
