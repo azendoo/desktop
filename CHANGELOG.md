@@ -1,3 +1,8 @@
+## 2.1.0
+* Fix badge on Windows
+* Add Clear cache and Browsing data
+* Update Electron to 4.2.12
+
 ## 2.0.1
 * Fix open download url in main window to prompt dialog
 
