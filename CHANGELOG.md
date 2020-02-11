@@ -1,3 +1,7 @@
+## 2.2.1
+* Revert fix badge on Windows
+* Minimize instead of hide or close on Windows
+
 ## 2.1.0
 * Fix badge on Windows
 * Add Clear cache and Browsing data
